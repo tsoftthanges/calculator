@@ -1,0 +1,3 @@
+this is my 3rd file, 
+i want to learn git commands
+more in detail
